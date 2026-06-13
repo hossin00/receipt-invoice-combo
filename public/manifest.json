@@ -1,0 +1,72 @@
+{
+  "name": "Receipt and Invoice Combo",
+  "short_name": "Receipt and Invoice Combo",
+  "description": "Track expenses and create invoices in one app",
+  "start_url": "/receipt-invoice-combo/",
+  "scope": "/receipt-invoice-combo/",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#f9fafb",
+  "theme_color": "#f97316",
+  "lang": "en-US",
+  "categories": [
+    "productivity",
+    "business"
+  ],
+  "icons": [
+    {
+      "src": "/receipt-invoice-combo/icons/icon-44x44.png",
+      "sizes": "44x44",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/receipt-invoice-combo/icons/icon-71x71.png",
+      "sizes": "71x71",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/receipt-invoice-combo/icons/icon-150x150.png",
+      "sizes": "150x150",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/receipt-invoice-combo/icons/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/receipt-invoice-combo/icons/icon-256x256.png",
+      "sizes": "256x256",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/receipt-invoice-combo/icons/icon-310x310.png",
+      "sizes": "310x310",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/receipt-invoice-combo/icons/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/receipt-invoice-combo/icons/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/receipt-invoice-combo/icons/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

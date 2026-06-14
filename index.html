@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8"/>
+  <meta name="viewport" content="width=device-width,initial-scale=1.0"/>
+  <meta name="theme-color" content="#f97316"/>
+  <link rel="manifest" href="/receipt-invoice-combo/manifest.json"/>
+  <link rel="icon" href="/receipt-invoice-combo/favicon.ico"/>
+  <title>Receipt and Invoice Combo</title>
+  <style>*{margin:0;padding:0;box-sizing:border-box}body{font-family:'Inter',sans-serif}</style>
+  <link rel="preconnect" href="https://fonts.googleapis.com"/>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap"/>
+  <script type="module" crossorigin src="/receipt-invoice-combo/assets/index-DvLuv_8v.js"></script>
+  <link rel="stylesheet" crossorigin href="/receipt-invoice-combo/assets/index-DQ22NqWg.css">
+</head>
+<body>
+  <div id="root"></div>
+  <script>
+    if ('serviceWorker' in navigator) {
+      window.addEventListener('load', () => {
+        navigator.serviceWorker.register('/receipt-invoice-combo/sw.js', { scope: '/receipt-invoice-combo/' });
+      });
+    }
+  </script>
+</body>
+</html>
